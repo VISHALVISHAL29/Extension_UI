@@ -13,13 +13,13 @@ function App() {
         </a>
       </div>
       <h1>Extension Testing</h1>
+        <h2>
+         Hello user 👋
+        </h2>
       <div className="card">
         <button onClick={() => window.location.reload()}>
           Reload 
         </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
       </div>
       <p className="read-the-docs">
         Click on the Electron logo to learn more
